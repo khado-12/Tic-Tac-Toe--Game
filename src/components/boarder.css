@@ -1,0 +1,21 @@
+.contaner{
+    background-color: #d312a3;
+    width:100%;
+    height:100vh;
+}
+.head{
+    color:black;
+    
+}
+
+.board-container{
+    width:400px;
+    height:400px;
+    position: relative;
+    top:150px;
+    left:450px;
+   
+}
+.board-row{
+    text-align: center;
+}

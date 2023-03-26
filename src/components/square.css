@@ -1,0 +1,10 @@
+.square{
+    background-color: rgba(195, 0, 255, 0.547);
+    border: 3px solid black;
+     height: 100px;
+     width: 100%;
+     display: flex;
+     justify-content: center;
+    align-items: "center";
+    color:black
+}
